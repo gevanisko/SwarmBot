@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Cam.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Cam.SchDoc|FileName=Flash&PSRAM.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Cam.SchDoc|FileName=PowerReg.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Cam.SchDoc|FileName=RxTx.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Cam.SchDoc|FileName=USB.SchDoc|SheetNumber=3
