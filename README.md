@@ -22,3 +22,4 @@ The design focuses on creating a compact embedded controller that can support ca
 - Dedicated power regulation circuitry
 - Modular Altium schematic structure
 - First custom PCB design project
+<img width="500" height="841" alt="image" src="https://github.com/user-attachments/assets/d84037f5-0f08-4196-be35-319172afeec4" />
