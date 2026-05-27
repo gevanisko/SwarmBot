@@ -4,6 +4,8 @@ ESP32-S3-based swarm robot PCB designed for small autonomous robotics, camera in
 
 This was the first PCB I designed, making it an important learning project in schematic design, PCB layout, power regulation, high-speed memory routing, camera interfacing, and embedded hardware integration.
 
+I know the layout is fair from perfect and I may come back and fix some issues in future versions
+
 ## Overview
 
 SwarmBot is a custom ESP32-S3 robot controller board intended for use in a small swarm robotics platform. The board combines an ESP32-S3 microcontroller with external memory, camera support, servo outputs, Bluetooth communication, USB-C, and onboard power regulation.
